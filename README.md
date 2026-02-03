@@ -56,7 +56,4 @@ Jika hasil klasifikasi salah atau segmentasi gagal (gambar hitam), gunakan `cek_
 -   Dataset gambar telur ayam dan bebek (Background kontras disarankan).
 
 ## 👨‍💻 Author
-
-Project UAS TKPP (Teknik Pengolahan Citra).
-- **Nama**: Rizal
-- **NIM**: 221110053
+- **Nama**: Rizal Rio Andrian

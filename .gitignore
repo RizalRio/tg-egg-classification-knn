@@ -1,0 +1,14 @@
+# Folders to ignore
+data_mentah/
+hasil_segmentasi/
+perhitungan_manual/
+bukti_originalitas/
+
+# File types to ignore
+*.pdf
+*.zip
+*.docx
+*.txt
+
+# Keep .m files (negating ignore if necessary)
+!*.m
